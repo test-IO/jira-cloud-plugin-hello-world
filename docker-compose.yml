@@ -5,3 +5,4 @@ services:
     command: tmux
     volumes:
       - ./:/app
+      - .ngrok2:/root/.ngrok2
