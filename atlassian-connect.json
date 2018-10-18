@@ -2,7 +2,7 @@
   "name": "Hello World",
   "description": "Simple Hello World to play around",
   "key": "io.test.jira.cloud.helloworld",
-  "baseUrl": "https://<placeholder-url>",
+  "baseUrl": "https://f237f27f.ngrok.io",
   "vendor": {
     "name": "test IO",
     "url": "https://test.io"

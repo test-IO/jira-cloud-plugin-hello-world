@@ -7,7 +7,13 @@
 /root/ngrok authtoken your-token
 
 # Start ngrok proxy
-/root/ngrok http 4040
+/root/ngrok http 8000
+```
+
+## Start server locally
+
+```bash
+http-server -p 8000
 ```
 
 ## Resources

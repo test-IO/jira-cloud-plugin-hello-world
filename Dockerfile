@@ -11,6 +11,7 @@ RUN apk --update add \
   wget
 
 RUN npm i -g npm
+RUN npm install http-server -g
 
 # ngrok
 ADD https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip /root/
