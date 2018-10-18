@@ -1,0 +1,24 @@
+{
+  "name": "Hello World",
+  "description": "Simple Hello World to play around",
+  "key": "io.test.jira.cloud.helloworld",
+  "baseUrl": "https://<placeholder-url>",
+  "vendor": {
+    "name": "test IO",
+    "url": "https://test.io"
+  },
+  "authentication": {
+    "type": "none"
+  },
+  "apiVersion": 1,
+  "modules": {
+    "generalPages": [{
+      "url": "/helloworld.html",
+      "key": "hello-world",
+      "location": "system.top.navigation.bar",
+      "name": {
+        "value": "Greeting"
+      }
+    }]
+  }
+}
