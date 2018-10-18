@@ -9,3 +9,8 @@
 # Start ngrok proxy
 /root/ngrok http 4040
 ```
+
+## Resources
+
+- https://developer.atlassian.com/cloud/jira/platform/getting-started/
+- https://developer.atlassian.com/server/framework/atlassian-sdk/create-a-helloworld-plugin-project/
